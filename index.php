@@ -19,7 +19,7 @@
   <header class="header">
     <nav class="navbar">
         <h2 class="logo">
-            <a href="home.html">
+            <a href="index.php">
               <img src="assets/image/logo.png" alt="">
             </a>
         </h2>
