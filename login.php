@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="logo">
-        <a href="home.php" class="logo">
+        <a href="index.php" class="logo">
             <img src="assets/image/logo.png" alt="Logo">
         </a>
     </div>
